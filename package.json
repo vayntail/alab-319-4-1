@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.1",
+    "mongodb": "^6.11.0"
+  },
+  "name": "319.4.1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.mjs",
+    "dev": "nodemon index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
